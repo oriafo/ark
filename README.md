@@ -1,3 +1,6 @@
+
+Abraham copy
+
 <h1 align="center">@ark</h1>
 
 <p align="center">
@@ -32,6 +35,22 @@
 | Select                  | 🟢    | 🟢    | 🟢  | ⚪     |
 | Segmented Control       | ⚪    | ⚪    | ⚪  | ⚪     |
 | Slider                  | 🟢    | 🟢    | 🟢  | ⚪     |
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 | Splitter                | 🟢    | 🟢    | 🟢  | ⚪     |
 | Switch                  | 🟢    | 🟢    | ⚪  | ⚪     |
 | Tabs                    | 🟢    | 🟢    | 🟢  | ⚪     |
